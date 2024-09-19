@@ -1,4 +1,4 @@
-# Introducing the "What Did You Expect?" Bot
+# Introducing the "What Did You Expect?" Bot Or The "MEE6" Destroyer
 
 Are you fed up with manually banning, muting, and kicking people on Discord like it’s your full-time gig? Do you feel like a digital babysitter, sifting through the chaos while chronically online folks argue about the merits of pineapple on pizza? Well, **you’re in luck!** The "What Did You Expect?" bot is coming very soon—though who knows when? Maybe in a week, a month, or when Discord mods finally figure out how to use a banhammer instead of a rubber mallet! This bot is designed to liberate you from the existential dread of moderating an online community, so you can finally focus on more important things—like judging other people’s choices while your own life crumbles.
 
