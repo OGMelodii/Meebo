@@ -6,7 +6,7 @@ Do you feel like a digital babysitter, endlessly sifting through the chaotic mes
 
 Well, **you’re in luck!** The "What Did You Expect?" bot is coming very soon—though who knows when? 
 
-Maybe in a week, a month, or when Discord mods finally figure out how to use shower instead of using their Banhammer! Let’s be honest; we all know they’re too busy beating their meat to digital pixels. (yes im looking at you) 
+Maybe in a week, a month, or when Discord mods finally figure out how to shower instead of using their Banhammer! Let’s be honest; we all know they’re too busy beating their meat to digital pixels. (yes im looking at you) 
 
 This bot is designed to liberate you from the existential dread of moderating an online community, allowing you to finally focus on more important things—like judging other people’s choices while your own life crumbles like a stale cookie under the weight of bad decisions. 
 
