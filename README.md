@@ -4,9 +4,11 @@ Are you fed up with manually banning, muting, and kicking people on Discord like
 
 Do you feel like a digital babysitter, endlessly sifting through the chaotic mess while chronically online folks argue about the merits of pineapple on pizza, as if that debate hasn’t been beaten to death by countless memes? 
 
+and also discord mods beating their meats to digital pixels?, dude why is this in the script.
+
 Well, **you’re in luck!** The "What Did You Expect?" bot is coming very soon—though who knows when? 
 
-Maybe in a week, a month, or when Discord mods finally figure out how to use a banhammer instead of a rubber mallet! 
+Maybe in a week, a month, or when Discord mods finally figure out how to use a banhammer instead of a rubber mallet! Let’s be honest; we all know they’re too busy beating their meat to the latest TikTok trends to notice. 
 
 This bot is designed to liberate you from the existential dread of moderating an online community, allowing you to finally focus on more important things—like judging other people’s choices while your own life crumbles like a stale cookie under the weight of bad decisions. 
 
@@ -69,7 +71,7 @@ You might as well get a front-row seat to the spectacle while the rest of us tak
 - **`!unlock (CHANNELID)`**: Unlocks a channel. 
   (Let the madness resume! You’ve made your bed; now lie in it. Good luck with that; you’ll definitely need some sage for the impending bad vibes. Just remember, you asked for this!)
 
-- **`!message (your_content)`**: Sends a message as OGMelodii. 
+- **`!message (your_content)`**: Sends a message as the bot. 
   (Because you need someone to say the things you can’t, like reminding your friend they still owe you money. It’s all about maintaining those crucial social contracts, even if it means throwing them under the bus for your own sanity!)
 
 ## Installation
@@ -97,8 +99,8 @@ Just follow these steps:
 6. **Get a girlfriend (or boyfriend, we don’t judge).** 
    (Because nothing says “I’m ready for chaos” like having someone to share the madness with! And let’s be honest, you might need emotional support after unleashing this bot on your server.)
 
-7. **Consider adopting a pet.** 
-   (You’ll need something to take your mind off the incoming storm of drama. Plus, who can resist the adorable chaos of a cat or dog? Just make sure they don’t eat your setup notes!)
+7. **Buy a stress ball** or something equally squishy, just in case things get out of hand. 
+   (You might need it when the drama hits the fan, and trust us, it will!)
 
 8. **Add the bot to your server** and watch as it transforms your server into a semi-organized chaos arena where nobody knows what’s going on but everyone pretends to. 
 
