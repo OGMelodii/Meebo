@@ -2,7 +2,7 @@
 
 Are you fed up with manually banning, muting, and kicking people on Discord like it’s your full-time gig? 
 
-Do you feel like a digital babysitter, endlessly sifting through the chaotic mess while chronically online folks argue about the merits of pineapple on pizza, as if that debate hasn't been beaten to death by countless memes? 
+Do you feel like a digital babysitter, endlessly sifting through the chaotic mess while chronically online folks argue about the merits of pineapple on pizza, as if that debate hasn’t been beaten to death by countless memes? 
 
 Well, **you’re in luck!** The "What Did You Expect?" bot is coming very soon—though who knows when? 
 
@@ -16,7 +16,7 @@ Here’s a glimpse into the bot’s impressive arsenal of commands that could ma
 
 These commands are designed to save your sanity and let you bask in the glorious chaos of the internet—because let’s face it, dealing with people online is like herding cats in a tornado, and nobody signed up for that circus. 
 
-You might as well get a front-row seat to the spectacle while the rest of us take bets on who will implode first.
+You might as well get a front-row seat to the spectacle while the rest of us take bets on who will implode first. 
 
 - **`!ban @user`**: Bans a user. 
   (Because sometimes, the only thing they contribute is a relentless stream of bad puns that could make a dad joke enthusiast weep. Nobody needs that negativity in their life. You’re not running a comedy club, so why put up with amateur hour? You deserve better!)
@@ -99,6 +99,8 @@ It’s coming soon—who knows when, but definitely before the next apocalypse!
 
 Buckle up, it’s going to be a bumpy ride through the hilariously chaotic world of Discord!
 
-And remember, folks, while this bot may be your saving grace, it's also your ticket to unprecedented chaos. So if you find yourself wondering why you didn’t just stick to playing video games instead of moderating a digital jungle, well, that’s a question for another day.
+And remember, folks, while this bot may be your saving grace, it's also your ticket to unprecedented chaos. 
 
-Happy moderating, or should we say, happy surviving? 
+So if you’re feeling brave—or just bored—dive in! 
+
+Happy moderating, or should we say, happy surviving?
