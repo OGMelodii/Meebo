@@ -80,27 +80,33 @@ Just follow these steps:
 
 1. **Download the bot files** from the repository (you know how to do that, right? If not, maybe take a moment to reassess your life choices before diving deeper into this rabbit hole). 
 
-2. **Run the setup script** and watch it install like magic—assuming you remember how to run scripts and don’t accidentally delete your entire server in the process. 
+2. **Go outside and touch grass.** 
+   (Yes, you heard that right! Maybe get a sunburn while you’re at it; it’ll remind you what sunlight feels like. Don’t worry, the digital world will still be there waiting for your return.)
 
+3. **Run the setup script** and watch it install like magic—assuming you remember how to run scripts and don’t accidentally delete your entire server in the process. 
    We believe in you… kind of. Just don’t call us when it all goes south!
 
-3. **Configure the settings** according to your needs. 
+4. **Take a moment to reflect on your life choices.** 
+   (This step is optional, but we highly recommend it. Ask yourself: “How did I end up here?” Maybe ponder your life goals while you’re at it.)
+
+5. **Configure the settings** according to your needs. 
    This step requires some thought, so good luck with that—no pressure! Just remember, if you mess it up, it’s your fault! 
 
    “How did I end up with this mess? Oh right, it’s because I didn’t follow the instructions.”
 
-4. **Add the bot to your server** and watch as it transforms your server into a semi-organized chaos arena where nobody knows what’s going on but everyone pretends to. 
+6. **Get a girlfriend (or boyfriend, we don’t judge).** 
+   (Because nothing says “I’m ready for chaos” like having someone to share the madness with! And let’s be honest, you might need emotional support after unleashing this bot on your server.)
 
-   You’ll be the one standing in the corner, sipping your drink, while everything burns around you. And honestly, that’s where the fun is!
+7. **Consider adopting a pet.** 
+   (You’ll need something to take your mind off the incoming storm of drama. Plus, who can resist the adorable chaos of a cat or dog? Just make sure they don’t eat your setup notes!)
+
+8. **Add the bot to your server** and watch as it transforms your server into a semi-organized chaos arena where nobody knows what’s going on but everyone pretends to. 
+
+9. **Prepare for the inevitable drama.** 
+   (Trust us; it’s going to be a wild ride! You’ll need snacks, a comfy chair, and maybe a therapist on speed dial. Embrace the chaos!)
 
 So, if you’re ready to embrace the madness and finally kick those annoying users to the curb without lifting a finger (well, maybe just a finger), keep an eye out for the "What Did You Expect?" bot! 
 
-It’s coming soon—who knows when, but definitely before the next apocalypse! 
-
-Buckle up, it’s going to be a bumpy ride through the hilariously chaotic world of Discord!
-
-And remember, folks, while this bot may be your saving grace, it's also your ticket to unprecedented chaos. 
-
-So if you’re feeling brave—or just bored—dive in! 
+It’s coming soon—who knows when, but definitely before the next apocalypse!
 
 Happy moderating, or should we say, happy surviving?
