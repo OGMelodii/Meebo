@@ -12,58 +12,58 @@ These commands are designed to save your sanity and let you bask in the glorious
 
 You might as well get a front-row seat to the spectacle while the rest of us take bets on who will implode first.
 
-!ban @user: Bans a user.
+# !ban @user: Bans a user.
 (Because sometimes, the only thing they contribute is a relentless stream of bad puns that could make a dad joke enthusiast weep. Nobody needs that negativity in their life. You’re not running a comedy club, so why put up with amateur hour? You deserve better!)
 
-!unban @user: Unbans a user by mention.
+# !unban @user: Unbans a user by mention.
 (For when you realize they weren’t as insufferable as you thought—oops! Or maybe you just want to give them another chance to ruin your day. Either way, enjoy the impending chaos and remember, you asked for it! Just don’t act surprised when they revert back to their annoying ways faster than you can say “give them another shot.”)
 
-!kick @user: Kicks a user.
+# !kick @user: Kicks a user.
 (A gentle nudge out the door—more like a shove, really. It’s not like they’ll miss your server; they’ll just find another place to annoy everyone! And let’s be honest, they probably won’t even notice until they’re halfway through their next rant about the state of the universe. Good riddance!)
 
-!mute @user: Mutes a user indefinitely.
+# !mute @user: Mutes a user indefinitely.
 (Silence is golden, and this user is now on permanent mute until you decide to unmute them. Finally, you can enjoy the sweet sound of nothingness without their constant interruptions—until you feel merciful enough to let them speak again!)
 
-!unmute @user: Unmutes a user.
+# !unmute @user: Unmutes a user.
 (For those brave enough to let them speak again—proceed with caution. Remember, you’ve muted them for a reason, and their next outburst could make you regret your moment of leniency!)
 
-!warn @user: Warns and mutes a user for 5 minutes.
+# !warn @user: Warns and mutes a user for 5 minutes.
 (Because a gentle reminder is all some people need before they hit that new level of annoying. “Congratulations! You’ve unlocked ‘Most Likely to Ruin a Server.’” You can almost hear the celebratory confetti falling, can’t you?)
 
-!serverinfo: Displays server information.
+# !serverinfo: Displays server information.
 (Spoiler alert: It’s probably just a bunch of people chronically online debating the merits of cats vs. dogs while living in their parents’ basements. Don’t worry; we won’t judge… much. Besides, we’re all just one bad meme away from losing our minds. Keep the emergency snacks nearby; you’re going to need them.)
 
-!info: Lists all available commands.
+# !info: Lists all available commands.
 (Perfect for those who can’t be bothered to read—like a guide for the terminally lazy. Seriously, we see you! If only there were a command to teach you basic reading skills. Maybe this bot could be your life coach instead?)
 
-!userinfo @user: Displays information about a user.
+# !userinfo @user: Displays information about a user.
 (For when you need a reminder of who’s been a pain, because sometimes you forget who to avoid. “Oh right, it’s that guy again… great. Just what I needed today! Now I can prepare my mental defenses.”)
 
-!muteall: Mutes all members.
+# !muteall: Mutes all members.
 (Finally, some peace and quiet! Enjoy the sound of crickets while the mods weep over their lost power. You’re a hero—who knew? Now you can finally hear yourself think… if only for a moment before the madness resumes.)
 
-!unmuteall: Unmutes all members.
+# !unmuteall: Unmutes all members.
 (Brace yourself—chaos is about to return, and you’ll definitely regret this in five minutes. But hey, you gave them a taste of silence; enjoy the sweet irony! You just can’t resist stirring the pot, can you?)
 
-!promote @user (role): Promotes a user to a specified role.
+# !promote @user (role): Promotes a user to a specified role.
 (Good luck explaining that to the ones who thought they had power; this should be entertaining. Get the popcorn ready for the inevitable meltdown! “Wait, I’m not an admin? What do you mean I can’t command the entire server?”)
 
-!demote @user (role): Demotes a user from a specified role.
+# !demote @user (role): Demotes a user from a specified role.
 (Because they were never fit to wear that crown, anyway. Better luck next time—just don’t cry about it in the public chat. Remember, it’s all in good fun… or is it? We can’t tell if you’re serious or just trying to entertain us at this point.)
 
-!chanpro @user (CHANNELID): Sets a user as channel producer.
+# !chanpro @user (CHANNELID): Sets a user as channel producer.
 (For those rare souls who might actually know what they’re doing—don’t get your hopes up. They’ll probably just mess it up spectacularly, and you’ll have front-row seats to the disaster. Buckle up; it’s going to be a bumpy ride!)
 
-!depro @user (CHANNELID): Removes a user as channel producer.
+# !depro @user (CHANNELID): Removes a user as channel producer.
 (No hard feelings… until the next server meeting, where we’ll discuss your incompetence. Good luck with that; you’ll need it, especially when you realize everyone’s silently judging you!)
 
-!setowner [user_id]: Changes the OWNER_ID to the specified user.
+# !setowner [user_id]: Changes the OWNER_ID to the specified user.
 (Because sometimes you just need to hand over the keys to someone else. Let’s see if they can handle the madness better than you did!)
 
-!getowner: Displays the current OWNER_ID.
+# !getowner: Displays the current OWNER_ID.
 (For when you forget who’s in charge around here—don’t worry, it happens to the best of us. Maybe you just need to remind everyone who’s really calling the shots!)
 
-!resetowner: Resets the OWNER_ID to the server owner.
+# !resetowner: Resets the OWNER_ID to the server owner.
 (Because sometimes it’s best to return to square one and let the chaos unfold naturally under the original overlord’s rule.)
 
 # Installation
