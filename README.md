@@ -1,4 +1,4 @@
-Introducing the "What Did You Expect?" Bot or The "MEE6" Destroyer
+# Introducing the "What Did You Expect?" Bot or The "MEE6" Destroyer
 Are you fed up with manually banning, muting, and kicking people on Discord like it’s your full-time gig?
 
 Do you feel like a digital babysitter, endlessly sifting through the chaotic mess while chronically online folks argue about the merits of pineapple on pizza, as if that debate hasn’t been beaten to death by countless memes?
