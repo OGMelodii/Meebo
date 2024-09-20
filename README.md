@@ -5,7 +5,7 @@ Do you feel like a digital babysitter, endlessly sifting through the chaotic mes
 
 This bot is designed to liberate you from the existential dread of moderating an online community, allowing you to finally focus on more important things—like judging other people’s choices while your own life crumbles like a stale cookie under the weight of bad decisions.
 
-What This Bot Can Do
+# What This Bot Can Do
 Here’s a glimpse into the bot’s impressive arsenal of commands that could make even the most power-hungry Discord mods weep into their Cheez-Its.
 
 These commands are designed to save your sanity and let you bask in the glorious chaos of the internet—because let’s face it, dealing with people online is like herding cats in a tornado, and nobody signed up for that circus.
@@ -66,7 +66,7 @@ You might as well get a front-row seat to the spectacle while the rest of us tak
 !resetowner: Resets the OWNER_ID to the server owner.
 (Because sometimes it’s best to return to square one and let the chaos unfold naturally under the original overlord’s rule.)
 
-Installation
+# Installation
 Installing this bot is as easy as ignoring the pleas of Discord mods trying to enforce rules nobody cares about.
 
 Just follow these steps:
@@ -94,7 +94,7 @@ Buy a stress ball or something equally squishy, just in case things get out of h
 
 Add the bot to your server and watch as it transforms your server into a semi-organized chaos arena where nobody knows what’s going on!
 
-Release Information
+# Release Information
 Release Date: To Be Announced
 
 We know what you’re thinking: “When will this glorious monstrosity of a bot actually be available?” Well, sit tight, because that’s about as predictable as a cat deciding whether or not it wants to be petted.
