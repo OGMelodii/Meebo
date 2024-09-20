@@ -94,8 +94,7 @@ Buy a stress ball or something equally squishy, just in case things get out of h
 
 Add the bot to your server and watch as it transforms your server into a semi-organized chaos arena where nobody knows what’s going on!
 
-# Release Information
-Release Date: To Be Announced
+# Release Date: ¯\_(ツ)_/¯
 
 We know what you’re thinking: “When will this glorious monstrosity of a bot actually be available?” Well, sit tight, because that’s about as predictable as a cat deciding whether or not it wants to be petted.
 
