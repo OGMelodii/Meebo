@@ -48,7 +48,7 @@ But behold, here comes the bot with a dazzling array of commands that might even
 
 - **!slowdown (DURATION) (CHANNEL_ID)**: Slows down sending messages in the given channel. For when the chaos needs to be reigned in, if only temporarily.
 - 
-## Installation
+## Installation (dont actually install this xd - OG)
 
 Setting up this bot is easier than trying to ignore Discord moderators begging to do rule enforcement on nobody-cares rules.
 
