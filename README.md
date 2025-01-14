@@ -1,4 +1,4 @@
-Introducing the "What Did You Expect?" Bot or The "MEE6" Destroyer
+## Introducing the "What Did You Expect?" Bot or The "MEE6" Destroyer
 
 Tired of banning, mute, and kicking people in Discord like it's a full-time job?
 
