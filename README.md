@@ -47,6 +47,7 @@ But behold, here comes the bot with a dazzling array of commands that might even
 - **!resetowner**: Resets the OWNER_ID to the server owner. Because sometimes it's best to go back to square one.
 
 - **!slowdown (DURATION) (CHANNEL_ID)**: Slows down sending messages in the given channel. For when the chaos needs to be reigned in, if only temporarily.
+- 
 ## Installation
 
 Setting up this bot is easier than trying to ignore Discord moderators begging to do rule enforcement on nobody-cares rules.
@@ -60,7 +61,7 @@ Setting up this bot is easier than trying to ignore Discord moderators begging t
 7. Buy a stress ball or something equally squishy, just in case things get out of hand. You might need it when the drama hits the fan!
 8. Add the bot to your server and watch as it turns your server into a semi-organized chaos arena!
 
-Release Information
+## Release Information
 
 **Release Date**: never
 
