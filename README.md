@@ -1,4 +1,4 @@
-## THIS BOT IS BEING MADE IN NODE.JS INSTEAD OF PYTHON!!!
+## THIS BOT IS BEING MADE IN PYTHON INSTEAD OF NODE.JS!!!
 
 ## Introducing the "What Did You Expect?" Bot or The "MEE6" Destroyer
 
